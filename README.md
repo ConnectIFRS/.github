@@ -1,20 +1,22 @@
 # Bem-vindo(a) ao ConnectIF!
 
-O ConnectIF é uma rede social desenvolvida por estudantes do IFRS Campus Feliz, para auxiliar na conexão e inclusão de alunos do nosso campus.
+O ConnectIF é uma rede social desenvolvida por estudantes para estudantes , com o objetivo auxiliar na conexão e inclusão de alunos do IFRS Campus Feliz.
 
 A rede social está sendo desenvolvida na disciplina Tópicos Avançados em Informática, no 3º trimestre do ano de 2023.
-
-## Sobre a atividade:
-
-- Neste trimestre a turma de Tópicos Avançados em Informática desenvolverá três soluções para um problema a partir do desenvolvimento de software. Para isso, serão formadas equipes de acordo com a afinidade e a necessidade a partir da demanda. Como resultado, ao final do trimestre será disponibilizado um software produzido pela turma para as demais pessoas que compõem o nosso campus.
 
 ## Problema:
 
 - Criar conexões com os (as) colegas e participar de um grupo de amigos (as) são alguns dos fatores apontados como relevantes para o sucesso escolar. Muitas pessoas que ingressam nos cursos técnicos do IFRS não conhecem ninguém na turma, algumas são tímidas e com isso apresentam maior dificuldade para se entrosar. Como podemos ajudá-las?
 
+## Sobre a atividade:
+
+- Neste trimestre a turma de Tópicos Avançados em Informática desenvolverá três soluções para um problema a partir do desenvolvimento de software. Para isso, serão formadas equipes de acordo com a afinidade e a necessidade a partir da demanda. Como resultado, ao final do trimestre será disponibilizado um software produzido pela turma para as demais pessoas que compõem o nosso campus.
+
+- 
+
 ## Dinâmica:
 
-- A turma será dividida em 3 grupos com liberdade para definir como será realizada a divisão de tarefas, desde que todas as pessoas tenham responsabilidades equivalentes e participem de todas as etapas. O grupo deverá acompanhar o cronograma de entregas e se organizar para cumprí-lo. Ao final de cada aula deve ser registrado de forma individual no diário disponibilizado no Moodle qual foi a sua contribuição para o desenvolvimento do projeto.
+- A turma será dividida em três grupos com liberdade para definir como será realizada a divisão de tarefas, desde que todas as pessoas tenham responsabilidades equivalentes e participem de todas as etapas. O grupo deverá acompanhar o cronograma de entregas e se organizar para cumprí-lo. Ao final de cada aula deve ser registrado de forma individual no diário disponibilizado no Moodle qual foi a sua contribuição para o desenvolvimento do projeto.
 
 ## Cronograma:
 
@@ -83,4 +85,4 @@ Estes comandos servem para ambos os projetos. Caso deseje visualizar o banco de 
 
 [Otávio João Maldaner](https://github.com/OtavioMaldaner);
 
-**Bom Princípio - RS | 15/10/2023**
+**Feliz - RS | 19/10/2023**
